@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221260260019",
+    "project_id": "pretesting-fe01e",
+    "storage_bucket": "pretesting-fe01e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221260260019:android:8528aaac2099b7ecdc46c6",
+        "android_client_info": {
+          "package_name": "com.example.flutterfirebasenotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs31QyWs7913sdLSpnJUJzQ52IDOMggE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
